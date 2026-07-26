@@ -18,8 +18,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HyeonjeYang&show_icons=true&count_private=true&bg_color=FFF6FB&title_color=E0568B&text_color=5C5470&icon_color=B689D6&border_color=F2D6E6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonjeYang&layout=compact&bg_color=FFF6FB&title_color=E0568B&text_color=5C5470&icon_color=B689D6&border_color=F2D6E6)
+(https://github-readme-stats.vercel.app/api?username=HyeonjeYang&show_icons=true&count_private=true&bg_color=FFF6FB&title_color=E0568B&text_color=5C5470&icon_color=B689D6&border_color=F2D6E6)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonjeYang&layout=compact&bg_color=FFF6FB&title_color=E0568B&text_color=5C5470&icon_color=B689D6&border_color=F2D6E6)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HyeonjeYang&background=FFF6FB&border=F2D6E6&stroke=F2D6E6&ring=E0568B&fire=E0568B&currStreakNum=5C5470&sideNums=5C5470&currStreakLabel=E0568B&sideLabels=5C5470&dates=A99BB0)
 
