@@ -1,4 +1,4 @@
-# Present_0206 👋
+# Present_0206
 
 **Biophysicist / Bioinformaticist** — Department of Biological Sciences, SNU
 
